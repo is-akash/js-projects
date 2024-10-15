@@ -5,7 +5,7 @@ API : https://api.api-ninjas.com/v1/loremipsum
 
 ## Speed Typing 
 
-![preview](/preview/preview.png)
+![preview](./preview/preview.png)
 
 #### What you can do
 You can load a new paragraph and start typing, it will show a timer and correct and incorrect words upon typing.
